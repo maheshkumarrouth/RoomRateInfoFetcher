@@ -1,0 +1,14 @@
+de/cultuzz/roomrateinfofetcher/resclient/RestClient.class
+de/cultuzz/roomrateinfofetcher/model/ChannelXCommunicationXDetails.class
+de/cultuzz/roomrateinfofetcher/startup/ApplicationStarter.class
+de/cultuzz/roomrateinfofetcher/jpamanager/cultagent4/ChannelXCommunicationXDetailsManagerImpl.class
+de/cultuzz/roomrateinfofetcher/service/ValidationService.class
+de/cultuzz/roomrateinfofetcher/exceptions/RoomRateFetcherInfoException.class
+de/cultuzz/roomrateinfofetcher/jpamanager/cultagent4/ChannelXCommunicationXDetailsManager.class
+de/cultuzz/roomrateinfofetcher/manager/bestday/BestDayManager.class
+de/cultuzz/roomrateinfofetcher/service/ValidationServiceImpl.class
+de/cultuzz/roomrateinfofetcher/controller/BestDayRoomRateFetcher.class
+de/cultuzz/roomrateinfofetcher/jpacalls/cultagent4/ChannelXCommunicationXDetailsRepository.class
+de/cultuzz/roomrateinfofetcher/dto/CommunicationDTO.class
+de/cultuzz/roomrateinfofetcher/exceptions/GlobalExceptionHandler.class
+de/cultuzz/roomrateinfofetcher/manager/bestday/BestDayManagerImpl.class
